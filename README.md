@@ -1,4 +1,4 @@
-# Customer Rental Data-Analysis
+# Customer Rental Data Analysis
 Customer Rental Data Analysis
 
 ## DVD rental dataset used to answer the following business question — “How many rentals per month per person is needed to reach a 50% increase in rentals per customer?” in a 30 day period.
